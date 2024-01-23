@@ -1,0 +1,3 @@
+JUMP -5
+ADDI R3 R1 12 
+LD R5 12 
